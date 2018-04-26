@@ -1,7 +1,7 @@
 # Maven
 /target/
 
-#eclipse
+# eclipse
 /.classpath
 /.project
 /.settings/
